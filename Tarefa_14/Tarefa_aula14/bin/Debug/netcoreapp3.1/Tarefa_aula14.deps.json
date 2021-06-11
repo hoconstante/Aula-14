@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tarefa_aula14/1.0.0": {
+        "runtime": {
+          "Tarefa_aula14.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarefa_aula14/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
